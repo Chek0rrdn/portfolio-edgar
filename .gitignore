@@ -1,0 +1,7 @@
+*.db
+*.py[cod]
+.venv
+.web
+/venv
+__pycache__/
+public/
