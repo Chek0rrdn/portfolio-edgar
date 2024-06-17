@@ -1,128 +1,178 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Edgar Pérez | Portafolio",
+    "description": "Soy Edgar, el mejor ingeniero de la historia o al menos de mi casa.",
+    "image": "/avatar.png",
+    "avatar": "/avatar.png",
+    "name": "Edgar Alberto Pérez Arredondo",
+    "skill": "Ingeniero en Ciberseguridad",
+    "location": "Monterrey, Mx",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "edgar_alberto97@outlook.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Chek0rrdn",
+        "likedin": "https://www.linkedin.com/in/edgar-alberto-perez-arredondo/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Hola, soy Edgar Perez, Licenciado en Seguridad en Tecnologías de Información y graduado de la Facultad de Ciencias Físico Matemáticas de la UANL. También soy Ingeniero en Sistemas Computacionales del Grupo Tecnológico Universitario, con experiencia en Programación, Redes Computacionales, Sistemas Operativos y Pentesting. Apasionado por la seguridad informática, busco desafíos que impulsen mi crecimiento profesional y me esfuerzo por mantenerme a la vanguardia en tecnología para crear soluciones innovadoras y fortalecer la protección de datos y sistemas.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-networkx-plain",
+            "name": "Redes"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-redhat-plain",
+            "name": "Seguridad"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
-        }
-    ],
-    "experience": [
-        {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-amazonwebservices-plain-wordmark",
+            "name": "AWS"
         }
     ],
+
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "lock-keyhole",
+            "title": "The Joker Birthday Card",
+            "subtitle": "Proyecto de Criptografía Aplicada",
+            "description": "Criptosistema basado en el cifrado de sobres.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://github.com/Chek0rrdn/criptoJoker",
+            "github": "https://github.com/Chek0rrdn/edgar-portfolio"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "file-terminal",
+            "title": "Port Scanner",
+            "subtitle": "Escáner de Puertos",
+            "description": "Este es un simple escáner de puertos en Python que te permite escanear un rango de puertos en un host específico. Utiliza el módulo socket y concurrent.futures.ThreadPoolExecutor para realizar el escaneo de manera eficiente en paralelo.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/project_3.jpg",
+            "url": "https://github.com/Chek0rrdn/port_scanner",
+            "github": "https://github.com/Chek0rrdn/edgar-portfolio"
+        },
+        {
+            "icon": "file-terminal",
+            "title": "Python Network Scripts",
+            "subtitle": "Escáneo y descubrimiento de puertos",
+            "description": "Herramientas escritas en Python para realizar escaneo de puertos y descubrimiento de hosts activos en una red mediante ICMP.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "image": "/project_4.jpg",
+            "url": "https://github.com/Chek0rrdn/scripts_python_redes",
+            "github": "https://github.com/Chek0rrdn/edgar-portfolio"
+        },
+        {
+            "icon": "bar-chart-4",
+            "title": "Data Engineer ETL",
+            "subtitle": "",
+            "description": "Una estructura de proyecto para realizar y compartir trabajo de ingeniería de datos.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "image": "/project_5.jpg",
+            "url": "https://github.com/Chek0rrdn/DataEngineer_ETL",
+            "github": "https://github.com/Chek0rrdn/edgar-portfolio"
+        },
+        {
+            "icon": "file-key",
+            "title": "Cipher-Chat",
+            "subtitle": "Criptografía",
+            "description": "Proyecto de Chat en Python con un enfoque del Cifrado en Telecomunicaciones",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "image": "/project_2.png",
+            "url": "https://github.com/Chek0rrdn/Cipher-Chat",
+            "github": "https://github.com/Chek0rrdn/edgar-portfolio"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Lic. en Seguridad en Tecnologías de Información",
+            "subtitle": "Facultad de Ciencias Físico Matemáticas - UANL",
+            "description": "Ced. Profesional 13963240",
+            "date": "Titulado",
+            "certificate": "https://verifica.carteradigital.uanl.mx/aa5d8dd4-62fd-4f97-8bb0-76c45d45cfa4"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Ing. en Sistemas Computacionales",
+            "subtitle": "Grupo Tecnológico Universitario",
+            "description": "Campus Monterrey",
+            "date": "Cursando",
+            "certificate": ""
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Fortinet Certified Associate",
+            "subtitle": "Fortinet",
+            "description": "La certificación Fortinet Certified Associate (FCA) se centra en la tecnología de ciberseguridad con un enfoque en la seguridad de redes y los aspectos técnicos de los firewalls de próxima generación.",
+            "date": "2023-2025",
+            "certificate": "https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1696921051/9759439764EP.pdf"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Fortinet Certified Fundamentals in Cybersecurity",
+            "subtitle": "Fortinet",
+            "description": "La certificación Fortinet Certified Fundamentals (FCF) se enfoca en las bases del conocimiento y habilidades necesarias para aprender a operar productos de ciberseguridad y soluciones.",
+            "date": "2023-2025",
+            "certificate": "https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1696586942/4182497949EP.pdf"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Automate Cybersecurity Tasks with Python",
+            "subtitle": "Google",
+            "description": "Automate Cybersecurity Tasks with Python, un curso autorizado por Google",
+            "date": "2023",
+            "certificate": "https://coursera.org/verify/G3V8BNYCLWLK"
         }
     ],
     "extras": [
         {
             "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "title": "Artículo 1",
+            "description": "Artículo Coloquio FIME 2023",
+            "url": ""
         },
         {
             "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "title": "Artículo 2",
+            "description": "Artículo Coloquio FIME 2024",
+            "url": ""
         }
+    ],
+    "experience": [
     ]
 }
