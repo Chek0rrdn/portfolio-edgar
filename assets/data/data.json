@@ -120,9 +120,17 @@
     "training": [
         {
             "icon": "graduation-cap",
+            "title": "Maestría en Ingeniería en Seguridad de la Información",
+            "subtitle": "Universidad Autónoma de Nuevo León",
+            "description": "Facultad de Ciencias Físico Matemáticas",
+            "date": "Cursando",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
             "title": "Lic. en Seguridad en Tecnologías de Información",
-            "subtitle": "Facultad de Ciencias Físico Matemáticas - UANL",
-            "description": "Ced. Profesional 13963240",
+            "subtitle": "Universidad Autónoma de Nuevo León",
+            "description": "Facultad de Ciencias Físico Matemáticas",
             "date": "Titulado",
             "certificate": "https://verifica.carteradigital.uanl.mx/aa5d8dd4-62fd-4f97-8bb0-76c45d45cfa4"
         },
@@ -149,14 +157,6 @@
             "description": "La certificación Fortinet Certified Fundamentals (FCF) se enfoca en las bases del conocimiento y habilidades necesarias para aprender a operar productos de ciberseguridad y soluciones.",
             "date": "2023-2025",
             "certificate": "https://training.fortinet.com/pluginfile.php/1/tool_certificate/issues/1696586942/4182497949EP.pdf"
-        },
-        {
-            "icon": "book-open-check",
-            "title": "Automate Cybersecurity Tasks with Python",
-            "subtitle": "Google",
-            "description": "Automate Cybersecurity Tasks with Python, un curso autorizado por Google",
-            "date": "2023",
-            "certificate": "https://coursera.org/verify/G3V8BNYCLWLK"
         }
     ],
     "extras": [
