@@ -128,6 +128,14 @@
         },
         {
             "icon": "graduation-cap",
+            "title": "Maestría en Inteligencia Artificial",
+            "subtitle": "Universidad Internacional de La Rioja en México",
+            "description": "",
+            "date": "Cursando",
+            "certificate": ""
+        },
+        {
+            "icon": "graduation-cap",
             "title": "Lic. en Seguridad en Tecnologías de Información",
             "subtitle": "Universidad Autónoma de Nuevo León",
             "description": "Facultad de Ciencias Físico Matemáticas",
@@ -139,7 +147,7 @@
             "title": "Ing. en Sistemas Computacionales",
             "subtitle": "Grupo Tecnológico Universitario",
             "description": "Campus Monterrey",
-            "date": "Cursando",
+            "date": "Terminada",
             "certificate": ""
         },
         {
@@ -167,9 +175,15 @@
             "url": ""
         },
         {
-            "image": "/extra_2.jpg",
+            "image": "/extra_2.JPG",
             "title": "Artículo 2",
             "description": "Artículo Coloquio FIME 2024",
+            "url": ""
+        },
+        {
+            "image": "/extra_3.JPG",
+            "title": "Artículo 1",
+            "description": "Artículo Coloquio FIME 2024 - 2",
             "url": ""
         }
     ],
